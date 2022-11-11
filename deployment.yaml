@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: hellotomcat:v1
+        image: rkddkwlrhdiddl/tomcatargo:4
         ports:
         - containerPort: 8080
